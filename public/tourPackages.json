@@ -1,0 +1,279 @@
+ [
+    {
+      "id": 1,
+      "packageName": "Cox's Bazar Beach Escape",
+      "city": "Cox's Bazar",
+      "review": "4.9",
+      "hotelName": "Sea Crown Hotel",
+      "duration": "3 Days 2 Nights",
+      "image": "https://images.unsplash.com/photo-1665651147145-664ebda525e7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fENveCdzJTIwQmF6YXIlMjBCZWFjaCUyMEVzY2FwZXxlbnwwfHwwfHx8MA%3D%3D",
+      "includes": ["Hotel", "Breakfast", "Transport", "Guide"],
+      "price": 18000,
+      "details": "Cox's Bazar Beach Escape is an exceptional travel package meticulously designed for travelers seeking a perfect blend of relaxation, adventure, and exploration in Bangladesh’s most famous coastal destination. Known as the longest uninterrupted sandy beach in the world, Cox's Bazar offers stunning vistas of the Bay of Bengal, golden beaches, and an atmosphere that rejuvenates the mind, body, and soul. This package is ideal for families, couples, and solo travelers who desire a stress-free vacation with a combination of scenic beauty, cultural immersion, and leisurely beach activities. Upon arrival, guests are welcomed at Cox's Bazar and transferred to Sea Crown Hotel, a comfortable and conveniently located hotel near the beach. The hotel provides well-appointed rooms with modern amenities, ensuring a relaxing stay for all visitors. After checking in, travelers can take a leisurely stroll along the shoreline, where the gentle waves and soft golden sands create a calming ambiance. The first evening offers ample opportunity to explore local eateries and food stalls where fresh seafood and authentic Bangladeshi dishes are served, providing a delightful culinary experience. The second day of the tour is dedicated to sightseeing and exploration. Travelers begin with a hearty breakfast at the hotel before heading to Laboni Beach, a hub of activity and scenic views. Here, visitors can enjoy photography, take part in water activities, or simply relax by the sea. The journey continues to Himchari Waterfall, where guests can witness cascading water surrounded by lush greenery, offering a serene escape from urban life. Inani Beach is the next highlight, known for its unique coral stones and tranquil environment. Travelers can indulge in beachcombing, nature walks, and capturing memorable moments amidst breathtaking landscapes. Optional activities such as speed boat rides, beach cycling, or guided local tours enhance the overall experience. During free time, guests can relax at the hotel, enjoy the sea-facing balcony, or engage in light recreational activities. Evenings provide a magical setting to witness the sunset over the Bay of Bengal, painting the sky with vibrant hues that leave lasting impressions. On the final day, an early morning wake-up allows travelers to experience a mesmerizing sunrise along the beach, providing a serene start to the day. After breakfast, guests can spend some additional time enjoying a last walk on the beach, shopping for souvenirs in local markets, or simply relaxing before check-out. The Cox's Bazar Beach Escape tour ensures travelers leave with lasting memories, renewed energy, and an enriched understanding of coastal Bangladesh’s natural beauty. This thoughtfully curated package combines comfort, adventure, and tranquility, making it a perfect choice for anyone seeking an unforgettable beach holiday experience."
+    },
+    {
+      "id": 2,
+      "packageName": "Luxury Inani Beach Retreat",
+      "city": "Cox's Bazar",
+      "review": "4.8",
+      "hotelName": "Royal Tulip Sea Pearl",
+      "duration": "3 Days 2 Nights",
+      "image": "https://images.unsplash.com/photo-1658076798013-654fb97e3111?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Q294J3MlMjBCYXphciUyMEJlYWNoJTIwRXNjYXBlfGVufDB8fDB8fHww",
+      "includes": ["Hotel", "Breakfast", "Transport", "Guide", "Beach Access"],
+      "price": 30000,
+      "details": "The Luxury Inani Beach Retreat is a premium travel package crafted for those who desire a high-end, tranquil beach vacation in Cox's Bazar. This tour is perfect for couples, honeymooners, and travelers seeking luxury, privacy, and unmatched scenic beauty along one of the most picturesque coastlines in the world. The package combines elegantly appointed accommodation, exclusive beach access, guided sightseeing, and culinary delights, providing a holistic and memorable travel experience. Guests arrive at Cox's Bazar and are transferred to Royal Tulip Sea Pearl, a five-star resort that offers modern amenities, spacious rooms with sea-facing views, and personalized services. The initial evening is designed for relaxation and acclimatization, allowing travelers to unwind after the journey. Guests can explore the hotel’s private beach, enjoy the soothing ocean breeze, or take a short walk to experience the surrounding natural beauty. The local cuisine, featuring fresh seafood and delicacies, enhances the overall experience, offering a true taste of coastal Bangladesh. The second day is filled with planned excursions and leisure activities. Travelers can visit the pristine Inani Beach, famous for its coral stones and turquoise waters, providing ample opportunities for photography, beach games, and peaceful reflection. Optional experiences such as guided nature walks, boat rides, and cultural interactions are available, ensuring guests can tailor their day according to personal preferences. The luxurious hotel amenities, including spa services, swimming pools, and fine dining, provide a balance of relaxation and indulgence, allowing travelers to enjoy comfort and adventure in equal measure. Evenings at Inani Beach Retreat are ideal for witnessing stunning sunsets, capturing vibrant skies over the Bay of Bengal, and enjoying romantic walks along the beach. The combination of serene landscapes, luxurious accommodation, and thoughtful itinerary ensures that each guest experiences a memorable and rejuvenating stay. On the final day, early morning sunrise views provide a tranquil start to the day, followed by breakfast and some leisure time for last-minute beach exploration or shopping. The Luxury Inani Beach Retreat package promises a seamless blend of comfort, adventure, and scenic beauty, offering travelers a luxurious coastal experience filled with relaxation, inspiration, and unforgettable memories."
+    },
+    {
+      "id": 3,
+      "packageName": "Sylhet Nature & Tea Garden",
+      "city": "Sylhet",
+      "review": "4.5",
+      "hotelName": "Rose View Hotel",
+      "duration": "2 Days 1 Night",
+      "image": "https://images.unsplash.com/photo-1706444326115-6a659b5cfda5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U3lsaGV0JTIwTmF0dXJlJTIwJTI2JTIwVGVhJTIwR2FyZGVuJTIwVG91cnxlbnwwfHwwfHx8MA%3D%3D",
+      "includes": [
+        "Hotel",
+        "Breakfast",
+        "Transport",
+        "Guide",
+        "Tea Garden Visit"
+      ],
+      "price": 15000,
+      "details": "The Sylhet Nature & Tea Garden Tour is a carefully curated travel package for nature lovers and adventure enthusiasts who wish to explore the lush landscapes, tea gardens, waterfalls, and cultural richness of Sylhet. Known as the land of greenery, Sylhet offers a refreshing escape from urban chaos, providing opportunities to reconnect with nature, enjoy scenic vistas, and experience local traditions. The tour begins with arrival in Sylhet and check-in at Rose View Hotel, a comfortable accommodation located near the heart of the city while offering convenient access to natural attractions. Guests can enjoy freshly prepared local meals and spend the evening exploring the immediate surroundings or relaxing in the hotel’s serene environment. The first day includes a visit to the sprawling tea gardens, where travelers can witness the entire tea production process, walk through emerald green fields, and enjoy scenic photography opportunities. The crisp, fresh air and the fragrance of tea leaves create a peaceful and rejuvenating atmosphere. On the second day, travelers explore natural attractions such as Madhabkunda Waterfall, Jaflong, and the surrounding hills. These sites offer breathtaking landscapes, perfect for nature walks, photography, and light trekking. Visitors can interact with local communities, experience traditional Bangladeshi culture, and purchase handmade crafts and souvenirs. Optional activities include guided tours of tea factories, boating on local rivers, and immersive cultural experiences. The combination of adventure, education, and relaxation ensures that every traveler leaves with lasting memories and a renewed sense of energy. Evenings provide opportunities for guests to enjoy Sylhet’s local cuisine, participate in traditional events, or simply relax at the hotel. The Sylhet Nature & Tea Garden Tour is a comprehensive package that blends sightseeing, adventure, relaxation, and cultural experiences, making it ideal for travelers seeking a holistic and memorable journey in one of Bangladesh’s most scenic regions."
+    },
+    {
+      "id": 4,
+      "packageName": "Srimangal Tea Capital Escape",
+      "city": "Srimangal",
+      "hotelName": "Grand Sultan Resort",
+      "review": "4.8",
+      "duration": "2 Days 2 Nights",
+      "image": "https://media.istockphoto.com/id/1488551347/photo/lush-green-beautiful-tea-garden-in-sylhet-bangladesh-with-lake-at-the-bottom.webp?a=1&b=1&s=612x612&w=0&k=20&c=T1lpHizalg98Fzb0QmQ7jlctj54caPblwjkai1IPDjQ=",
+      "includes": [
+        "Hotel",
+        "Breakfast",
+        "Transport",
+        "Guide",
+        "Tea Factory Visit"
+      ],
+      "price": 16000,
+      "details": "Srimangal Tea Capital Escape is an immersive tour designed for travelers who wish to experience the lush tea estates, scenic hills, and serene landscapes of Srimangal. Known as the tea capital of Bangladesh, Srimangal is famous for its rolling tea gardens, vibrant greenery, and peaceful rivers that create a perfect backdrop for relaxation and photography. Guests arrive in Srimangal and check into the Grand Sultan Resort, a hotel known for its comfort, modern amenities, and proximity to the main attractions. The initial evening is dedicated to unwinding, enjoying the scenic surroundings, and tasting traditional Sylheti cuisine. The first day of the tour includes guided visits to prominent tea estates where travelers can learn about tea cultivation, plucking techniques, and processing methods. Walking through the emerald green plantations, guests can breathe in fresh, crisp air and capture memorable photographs. In addition, cultural experiences, such as visiting local villages, interacting with tea workers, and exploring traditional lifestyles, are included to enhance the journey. The second day focuses on nature exploration, with visits to the Madhabpur Lake, Lawachara National Park, and nearby waterfalls. Guests can participate in light trekking, bird watching, and enjoying river scenery. Optional activities include cycling tours, local market shopping, and tasting authentic street food. Evenings are perfect for relaxing at the resort, enjoying sunset views, and reflecting on the experiences of the day. This comprehensive package ensures a blend of education, adventure, and leisure, making Srimangal Tea Capital Escape an unforgettable travel experience for all nature and tea enthusiasts."
+    },
+    {
+      "id": 5,
+      "packageName": "Saint Martin Island Adventure",
+      "city": "Saint Martin",
+      "review": "4.7",
+      "hotelName": "Coral Reef Resort",
+      "duration": "3 Days 2 Nights",
+      "image": "https://images.unsplash.com/photo-1626239889138-a7e4f971059e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fENveCdzJTIwQmF6YXIlMjBCZWFjaCUyMEVzY2FwZXxlbnwwfHwwfHx8MA%3D%3D",
+      "includes": ["Hotel", "Breakfast", "Transport", "Guide", "Snorkeling"],
+      "price": 25000,
+      "details": "Saint Martin Island Adventure is a premium travel package for those who seek a unique tropical experience in Bangladesh. The island, known for its crystal-clear waters, coral reefs, and white sandy beaches, offers a perfect getaway for adventure lovers and beach enthusiasts. Upon arrival, guests are transferred to Coral Reef Resort, a hotel that provides comfortable rooms and easy access to the island’s main attractions. The first day allows travelers to relax and enjoy the beach surroundings, soaking in the sun and exploring the island’s natural beauty. The following day includes guided snorkeling adventures where visitors can observe colorful marine life and coral formations. Optional activities such as island hiking, local market visits, and seafood tasting are available. The evenings offer peaceful sunset views and opportunities for photography. On the final day, guests enjoy breakfast and free time for beach walks or souvenir shopping before departure. This package ensures a combination of adventure, relaxation, and scenic beauty, providing travelers with unforgettable memories of Bangladesh’s only coral island."
+    },
+    {
+      "id": 6,
+      "packageName": "Kuakata Sea Horizon Tour",
+      "city": "Kuakata",
+      "review": "4.6",
+      "hotelName": "Sea View Resort",
+      "duration": "2 Days 1 Night",
+      "image": "https://images.unsplash.com/photo-1658076796725-f8f36982af19?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Q294J3MlMjBCYXphciUyMEJlYWNoJTIwRXNjYXBlfGVufDB8fDB8fHww",
+      "includes": ["Hotel", "Breakfast", "Transport", "Guide", "Beach Access"],
+      "price": 14000,
+      "details": "Kuakata Sea Horizon Tour is an exceptional coastal getaway designed for travelers who want to witness the rare phenomenon of seeing both sunrise and sunset over the Bay of Bengal. The package offers a combination of relaxation, beach exploration, cultural immersion, and adventure. Upon arrival, guests are transferred to Sea View Resort, a comfortable hotel with modern amenities and panoramic views of the sea. The first day includes exploration of the beach, photography sessions, and interactions with local communities. The next day offers guided tours to nearby attractions such as Fatrar Char, where travelers can witness unique wildlife and scenic landscapes. Optional activities include boat rides, local market shopping, and tasting traditional seafood delicacies. The tour ensures ample free time for guests to relax, enjoy beach walks, and capture the mesmerizing scenery. This Kuakata tour provides a perfect blend of natural beauty, culture, and tranquility for families, couples, and solo travelers."
+    },
+    {
+      "id": 7,
+      "packageName": "Bandarban Hills & Waterfall Expedition",
+      "city": "Bandarban",
+      "review": "4.9",
+      "hotelName": "Green Hill Resort",
+      "duration": "3 Days 2 Nights",
+      "image": "https://images.unsplash.com/photo-1558673810-9b0b6316d4f4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8QmFuZGFyYmFuJTIwSGlsbHMlMjAlMjYlMjBXYXRlcmZhbGwlMjBFeHBlZGl0aW9ufGVufDB8fDB8fHww",
+      "includes": ["Hotel", "Breakfast", "Transport", "Guide", "Trekking"],
+      "price": 22000,
+      "details": "Bandarban Hills & Waterfall Expedition is a nature-centric tour for adventurers and travelers seeking scenic beauty, fresh mountain air, and thrilling experiences. Guests arrive in Bandarban and check into Green Hill Resort, offering comfort and proximity to major attractions. The first day features visits to Nilgiri Hills and Sangu River, allowing guests to enjoy panoramic views and light trekking. Day two is dedicated to exploring majestic waterfalls including Nafakhum and Amiakhum, providing opportunities for photography and nature walks. Optional activities include trekking through hills, bamboo rafting, and interaction with local indigenous communities. Evenings offer relaxation at the resort, enjoying traditional cuisine and breathtaking sunsets over the hills. The third day allows for free exploration, shopping for handmade crafts, and experiencing local culture before departure. This package is ideal for travelers who want adventure, nature, and cultural insights in one immersive trip."
+    },
+    {
+      "id": 8,
+      "packageName": "Sundarbans Mangrove Safari",
+      "city": "Khulna",
+      "review": "4.8",
+      "hotelName": "Mangrove Eco Lodge",
+      "duration": "3 Days 2 Nights",
+      "image": "https://images.unsplash.com/photo-1607441078533-77ba814b1e5d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fFN1bmRhcmJhbnMlMjBNYW5ncm92ZSUyMFNhZmFyaXxlbnwwfHwwfHx8MA%3D%3D",
+      "includes": ["Hotel", "Breakfast", "Transport", "Guide", "Boat Safari"],
+      "price": 28000,
+      "details": "Sundarbans Mangrove Safari is an exclusive wildlife and nature expedition designed for eco-tourists, photographers, and adventure seekers. The tour explores the largest mangrove forest in the world, home to the Royal Bengal Tiger and diverse wildlife. Guests are picked up from Khulna and transferred to Mangrove Eco Lodge, a comfortable hotel with modern amenities. The safari includes guided boat rides through the mangrove waterways, birdwatching, and visits to watchtowers for wildlife observation. Optional activities include fishing, photography workshops, and village visits to interact with local communities. The evenings feature campfire experiences, traditional meals, and storytelling about the Sundarbans ecosystem. This package guarantees a blend of adventure, learning, and natural beauty, offering travelers a unique and unforgettable eco-tourism experience in Bangladesh."
+    },
+    {
+      "id": 9,
+      "packageName": "Paharpur Heritage Tour",
+      "city": "Naogaon ",
+      "review": "4.7",
+      "hotelName": "Heritage Inn",
+      "duration": "2 Days 1 Night",
+      "image": "https://www.scheggedelsapere.com/images/26.jpg",
+      "includes": ["Hotel", "Breakfast", "Transport", "Guide", "Cultural Tour"],
+      "price": 12000,
+      "details": "Paharpur  Heritage Tour is designed for history enthusiasts, cultural travelers, and educational groups. This package offers an in-depth exploration of Bangladesh’s ancient civilizations and architectural marvels. Guests stay at Heritage Inn, a cozy hotel providing modern comfort and easy access to heritage sites. The tour includes guided visits to the UNESCO World Heritage Site of Paharpur, famous for its ancient Buddhist monastery ruins, and Mahasthangarh, one of the oldest urban archaeological sites in Bangladesh. Travelers can participate in photography, cultural interactions, and educational discussions with expert guides. Optional activities include shopping for handicrafts, exploring local villages, and tasting traditional cuisine. This heritage package combines education, exploration, and relaxation, offering travelers a memorable journey through Bangladesh’s historic landmarks."
+    },
+    {
+      "id": 10,
+      "packageName": "Rangamati Lake & Tribal Tour",
+      "city": "Rangamati",
+      "review": "4.6",
+      "hotelName": "Kaptai Lake Resort",
+      "duration": "2 Days 2 Nights",
+      "image": "https://images.unsplash.com/photo-1767686213241-3407702247cd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8TGFrZSUyMCUyNiUyMFRyaWJhbCUyMFRvdXJ8ZW58MHx8MHx8fDA%3D",
+      "includes": ["Hotel", "Breakfast", "Transport", "Guide", "Boat Ride"],
+      "price": 17000,
+      "details": "Rangamati Lake & Tribal Tour is a scenic journey into the hills and waterways of the Chittagong Hill Tracts, ideal for travelers seeking nature, adventure, and cultural insights. Guests arrive in Rangamati and check into Kaptai Lake Resort, offering lake-view rooms and modern amenities. The tour features boat rides across Kaptai Lake, visits to tribal villages, and exploration of hanging bridges and hilltop viewpoints. Travelers can engage in photography, interact with indigenous communities, and enjoy local cuisine. Optional activities include kayaking, trekking through hills, and guided village walks. Evenings are perfect for relaxation by the lake, witnessing sunset reflections, and storytelling sessions about local culture. This package provides a unique blend of nature, culture, and adventure, ensuring an immersive experience in Rangamati."
+    },
+    {
+      "id": 11,
+      "packageName": "Dhaka City Cultural Tour",
+      "city": "Dhaka",
+      "review": "4.9",
+      "hotelName": "Grand Palace Hotel",
+      "duration": "2 Days 1 Night",
+      "image": "https://images.unsplash.com/photo-1674885674914-8405f1a986a3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fERoYWthJTIwQ2l0eSUyMEN1bHR1cmFsJTIwVG91cnxlbnwwfHwwfHx8MA%3D%3D",
+      "includes": ["Hotel", "Breakfast", "Transport", "Guide", "Museum Entry"],
+      "price": 10000,
+      "details": "Dhaka City Cultural Tour is a vibrant exploration of Bangladesh’s capital, blending history, culture, and modern urban experiences. Guests stay at Grand Palace Hotel, centrally located for easy access to major attractions. The tour includes visits to Lalbagh Fort, Ahsan Manzil, and the National Museum, where travelers can learn about Bangladesh’s rich heritage and architectural wonders. Guests explore bustling markets, sample street food, and experience Dhaka’s lively atmosphere. Optional activities include boat rides along the Buriganga River and visits to local artisan workshops. Evenings provide opportunities to enjoy traditional performances, dine at local restaurants, and relax at the hotel. This package offers an immersive city experience, perfect for culture lovers, photographers, and first-time visitors seeking to explore Dhaka’s history and vibrancy."
+    },
+    {
+      "id": 12,
+      "packageName": "Chittagong Hill Tracts Adventure",
+      "city": "Chittagong",
+      "review": "4.8",
+      "hotelName": "Hillside Resort",
+      "duration": "3 Days 2 Nights",
+      "image": "https://images.unsplash.com/photo-1717418878623-50e09d80afcd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8SGlsbCUyMFRyYWN0c3xlbnwwfHwwfHx8MA%3D%3D",
+      "includes": ["Hotel", "Breakfast", "Transport", "Guide", "Trekking"],
+      "price": 20000,
+      "details": "Chittagong Hill Tracts Adventure is designed for thrill-seekers and nature enthusiasts wanting to explore the lush hills, rivers, and indigenous culture of southeastern Bangladesh. Guests stay at Hillside Resort, offering comfortable accommodations and easy access to trekking routes. The tour includes guided treks through the hills, visits to tribal villages, and exploration of natural wonders like waterfalls and viewpoints. Optional activities include kayaking, boating, and photography tours. Travelers experience local cuisine, traditional music, and artisan crafts, providing a rich cultural immersion. Evenings allow relaxation at the resort, enjoying panoramic views and scenic sunsets. This package offers adventure, cultural exposure, and unforgettable natural landscapes in one immersive experience."
+    },
+    {
+      "id": 13,
+      "packageName": " Mahasthangarh Heritage Expedition",
+      "city": " Bogura",
+      "review": "4.7",
+      "hotelName": "Ancient Heritage Inn",
+      "duration": "2 Days 2 Nights",
+      "image": "https://res.cloudinary.com/tourhq/image/upload/fl_progressive,f_auto,h_507,w_900,g_auto,c_fill,q_auto/jbal41urbp54y8k3e5of",
+      "includes": [
+        "Hotel",
+        "Breakfast",
+        "Transport",
+        "Guide",
+        "Historical Tour"
+      ],
+      "price": 13000,
+      "details": "Mahasthangarh Heritage Expedition is tailored for travelers interested in archaeology, history, and cultural exploration. Guests stay at Ancient Heritage Inn, offering comfortable rooms and proximity to historical sites. The tour includes guided visits to the UNESCO World Heritage Site of Paharpur Buddhist Monastery, Mahasthangarh ancient city, and local museums. Travelers engage in photography, explore ruins, and learn about ancient civilization through expert commentary. Optional activities include visiting local villages, experiencing traditional crafts, and sampling regional cuisine. Evenings provide relaxation, cultural storytelling, and reflection on the day’s discoveries. This package combines history, education, and cultural immersion for a complete heritage experience."
+    },
+    {
+      "id": 14,
+      "packageName": "Bagerhat & Sixty Dome Mosque Tour",
+      "city": "Bagerhat",
+      "review": "4.6",
+      "hotelName": "Mosque View Hotel",
+      "duration": "2 Days 1 Night",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Sixty_Dome_Mosque%2CBagerhat.jpg",
+      "includes": [
+        "Hotel",
+        "Breakfast",
+        "Transport",
+        "Guide",
+        "Historical Tour"
+      ],
+      "price": 12000,
+      "details": "Bagerhat & Sixty Dome Mosque Tour is a journey into the architectural and religious heritage of southern Bangladesh. Guests stay at Mosque View Hotel, conveniently located near UNESCO World Heritage sites. The package includes guided tours to the Sixty Dome Mosque, Nine Dome Mosque, and other ancient monuments, highlighting Bengal’s Islamic architecture. Travelers explore local culture, shop for handicrafts, and enjoy regional cuisine. Optional activities include photography, village walks, and boat rides in nearby rivers. The tour balances educational experiences with leisure, providing insights into the rich history, craftsmanship, and cultural significance of Bagerhat. Evenings offer relaxation at the hotel and opportunities to observe sunset views of the cityscape. This package is ideal for history enthusiasts, cultural explorers, and architecture lovers."
+    },
+    {
+      "id": 15,
+      "packageName": "Foy’s Lake & Chittagong City Tour",
+      "city": "Chittagong",
+      "review": "4.9",
+      "hotelName": "City View Resort",
+      "duration": "2 Days 1 Night",
+      "image": "https://media.tacdn.com/media/photo-m/1280/29/e1/6f/82/caption.jpg",
+      "includes": ["Hotel", "Breakfast", "Transport", "Guide", "Boat Ride"],
+      "price": 15000,
+      "details": "Foy’s Lake & Chittagong City Tour offers a combination of scenic beauty, adventure, and urban exploration in southeastern Bangladesh. Guests stay at City View Resort, offering comfortable rooms and easy access to the lake and city attractions. The tour includes visits to Foy’s Lake amusement area, boating experiences, and guided city tours covering major landmarks, markets, and cultural sites. Optional activities include hiking nearby hills, photography, and tasting local delicacies. Travelers enjoy scenic sunset views, leisure time at the lake, and interaction with local communities. This package is ideal for families, couples, and solo travelers looking for a blend of relaxation, adventure, and cultural exploration in Chittagong."
+    },
+    {
+      "id": 16,
+      "packageName": "Sajek Valley Adventure",
+      "city": "Rangamati",
+      "review": "4.8",
+      "hotelName": "Sajek View Resort",
+      "duration": "3 Days 2 Nights",
+      "image": "https://ttg.com.bd/uploads/tours/destinations/6444446K.jpg",
+      "includes": ["Hotel", "Breakfast", "Transport", "Guide", "Trekking"],
+      "price": 22000,
+      "details": "Sajek Valley Adventure is a nature and adventure-focused tour designed for travelers seeking picturesque landscapes, serene hills, and cultural immersion in the Chittagong Hill Tracts. Guests stay at Sajek View Resort, offering comfortable rooms with panoramic views of the valley and hills. The tour includes trekking through lush green hills, visits to tribal villages, and exploration of rivers and waterfalls. Travelers can enjoy photography, birdwatching, and interactions with indigenous communities. Optional activities include boating, local market visits, and exploring hilltop viewpoints for sunrise and sunset. Evenings provide relaxation at the resort and cultural storytelling sessions. This package guarantees a unique experience combining adventure, natural beauty, and cultural exposure in Sajek Valley."
+    },
+    {
+      "id": 17,
+      "packageName": "Rangamati & Kaptai Lake Cruise",
+      "city": "Rangamati",
+      "review": "4.7",
+      "hotelName": "Kaptai Lake Resort",
+      "duration": "2 Days 1 Night",
+      "image": "https://storage.googleapis.com/gz-main-prod-main/media/uploaded_content/2025-09-232vD50EOFRQ.jpg",
+      "includes": ["Hotel", "Breakfast", "Transport", "Guide", "Boat Ride"],
+      "price": 18000,
+      "details": "Rangamati & Kaptai Lake Cruise is a scenic package that blends natural beauty, relaxation, and cultural experience in the Chittagong Hill Tracts. Guests stay at Kaptai Lake Resort, with lake-facing rooms and modern amenities. The tour features guided boat cruises on Kaptai Lake, visiting tribal villages, and exploring lush hillsides. Travelers enjoy photography, local cuisine, and interactions with indigenous communities. Optional activities include kayaking, trekking, and shopping for handmade crafts. Evenings are perfect for observing the sunset over the lake, enjoying peaceful surroundings, and cultural storytelling. This package offers a perfect mix of nature, adventure, and cultural exploration."
+    },
+    {
+      "id": 18,
+      "packageName": "Tangail Handloom & Rural Tour",
+      "city": "Tangail",
+      "review": "4.4",
+      "hotelName": "Tangail Comfort Inn",
+      "duration": "2 Days 1 Night",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-X7O_xhqSLROqoIExRg5svb2Rf-83brAFcQ&s",
+      "includes": [
+        "Hotel",
+        "Breakfast",
+        "Transport",
+        "Guide",
+        "Cultural Experience"
+      ],
+      "price": 11000,
+      "details": "Tangail Handloom & Rural Tour is a cultural and educational package ideal for travelers interested in traditional crafts, local culture, and rural lifestyles. Guests stay at Tangail Comfort Inn, providing modern amenities and proximity to handloom centers. The tour includes visits to handloom weaving workshops, local markets, and village communities where travelers can witness traditional weaving techniques, buy handcrafted textiles, and learn about rural life. Optional activities include photography, interactive workshops with artisans, and tasting local cuisine. Evenings provide relaxation at the hotel and reflection on the day’s experiences. This package offers a blend of cultural immersion, education, and authentic rural exploration in Tangail."
+    },
+    {
+      "id": 19,
+      "packageName": "Khulna & Sundarbans Explorer",
+      "city": "Khulna",
+      "review": "4.6",
+      "hotelName": "Sundarbans Eco Lodge",
+      "duration": "3 Days 2 Nights",
+      "image": "https://takeaboat.com/uploads/0000/6/2025/09/13/687.jpg",
+      "includes": ["Hotel", "Breakfast", "Transport", "Guide", "Boat Safari"],
+      "price": 27000,
+      "details": "Khulna & Sundarbans Explorer is an exciting eco-tourism package designed for wildlife enthusiasts, photographers, and nature lovers. Guests stay at Sundarbans Eco Lodge, offering comfortable accommodations close to the mangrove forest. The tour includes guided boat safaris through the Sundarbans, observing diverse wildlife, including the Royal Bengal Tiger, crocodiles, and numerous bird species. Travelers explore rivers, mangrove islands, and watchtowers for wildlife spotting. Optional activities include fishing, photography workshops, and village interactions. Evenings provide campfire experiences, traditional meals, and educational talks on conservation. This package combines adventure, learning, and nature exploration for an unforgettable eco-tourism experience."
+    },
+    {
+      "id": 20,
+      "packageName": "Paharpur & Bogura Cultural Journey",
+      "city": "Naogaon & Bogura",
+      "review": "4.7",
+      "hotelName": "Cultural Heritage Inn",
+      "duration": "3 Days 2 Nights",
+      "image": "https://www.thedailystar.net/sites/default/files/styles/big_1/public/images/2024/10/17/_b3a5863-enhanced-nr.jpg",
+      "includes": [
+        "Hotel",
+        "Breakfast",
+        "Transport",
+        "Guide",
+        "Historical Tour"
+      ],
+      "price": 14000,
+      "details": "Paharpur & Bogura Cultural Journey is an immersive travel package for history buffs, archaeology enthusiasts, and cultural explorers. Guests stay at Cultural Heritage Inn, offering comfortable accommodation and proximity to major historical sites. The tour includes visits to the UNESCO World Heritage Site of Paharpur Buddhist Monastery, Mahasthangarh ancient city, and local museums. Travelers engage in photography, guided cultural explanations, and interaction with local communities. Optional activities include exploring village life, handicraft shopping, and tasting regional cuisine. Evenings provide reflection time, cultural storytelling, and relaxation at the hotel. This package ensures a rich experience blending history, education, and cultural immersion for a memorable journey through Bangladesh’s ancient heritage."
+    }
+  ]
+

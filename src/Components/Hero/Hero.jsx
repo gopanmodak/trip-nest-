@@ -1,5 +1,6 @@
 import React from "react";
 import heroImage from "../../assets/bannermain.jpg";
+import { Link } from "react-router-dom";
 
 const Hero = () => {
   return (
@@ -22,15 +23,15 @@ const Hero = () => {
             Plan Your Perfect Journey with TripNest
           </h1>
 
-          <p className="text-gray-200 max-w-2xl mb-6">
+          <p className="text-gray-200 max-w-2xl mb-6 lg:text-lg">
             Discover amazing destinations, plan stress-free trips, and travel
             with comfort and confidence. TripNest helps you explore the world
             your way.
           </p>
 
-          <button className="px-6 py-3 bg-teal-600 hover:bg-teal-700 text-white font-semibold rounded-full transition">
+          <Link to="/packages" className="px-6 py-3 bg-teal-600 hover:bg-teal-700 text-white font-semibold rounded-full transition">
             Explore Now
-          </button>
+          </Link>
         </div>
 
       </div>
