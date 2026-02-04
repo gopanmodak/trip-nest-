@@ -18,8 +18,8 @@ const Packages = () => {
         {Array.isArray(tourPackages) && tourPackages.length > 0 ? (
           tourPackages.map((tour) => <Package key={tour.id} tour={tour} />)
         ) : (
-          <p className="text-center col-span-full text-gray-500">
-            No packages found.
+          <p className="text-center col-span-full text-gray-500 font-medium text-lg">
+            Data not found
           </p>
         )}
       </div>
