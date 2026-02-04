@@ -39,9 +39,10 @@ const Package = ({ tour }) => {
           <p className="text-gray-700 mb-1">
             <strong>Duration:</strong> {tour.duration}
           </p>
-          <div className="card-actions justify-between items-center">
+          
+          <div className="flex justify-end items-center">
             <Link to={`/packages/${tour.id}`} className="btn btn-info text-amber-50 font-semi\">View Details</Link>
-            <button className="btn btn-primary">Book Now</button>
+            
           </div>
         </div>
       </div>

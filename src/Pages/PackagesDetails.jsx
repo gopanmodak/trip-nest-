@@ -1,11 +1,28 @@
 import React from "react";
 import { useLoaderData, useNavigate } from "react-router-dom";
+import Modal from "../Components/Modal/Modal";
 
 const PackagesDetails = () => {
   const packageData = useLoaderData();
   const navigaate = useNavigate();
+  
+
+  const handleOnClick =() =>{
+   
+    navigaate(-1)
+    
+  }
+
+  const handleOnBookNow = () =>{
+    document.getElementById('my_modal_1').showModal()
+   
+  }
   return (
-    <div className="max-w-4xl mx-auto p-6 bg-white shadow-lg rounded-lg mt-8">
+   
+
+    <>
+    
+     <div className="max-w-4xl mx-auto p-6 bg-white shadow-lg rounded-lg mt-8">
       {/* Image */}
       <img
         src={packageData.image}
@@ -48,17 +65,20 @@ const PackagesDetails = () => {
 
       {/* Book Button */}
       <div className="flex justify-between">
-        <button className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition">
+        <button className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition" onClick={handleOnBookNow}>
           Book Now
         </button>
         <button
           className="bg-black text-white px-6 py-3 rounded-lg hover:bg-yellow-700 transition"
-          onClick={() => navigaate(-1)}
+          onClick={handleOnClick}
         >
           Back to Packages
         </button>
       </div>
     </div>
+
+    <Modal  packageData={packageData}/>
+    </>
   );
 };
 

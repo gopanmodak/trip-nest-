@@ -14,7 +14,7 @@ const Packages = () => {
       </h1>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 justify-center items-center gap-5 ">
-        {tourPackages.map((tour) => (
+        {tourPackages && tourPackages.map((tour) => (
           <Package key={tour.id} tour={tour} />
         ))}
       </div>
