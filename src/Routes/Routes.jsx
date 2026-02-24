@@ -19,7 +19,7 @@ export const routes = createBrowserRouter([
       {
         path: "packages",
         element: <Packages />,
-        loader: async () => await fetch("tourPackages.json"),
+        loader: async () => await fetch("/tourPackages.json"),
       },
 
       {
@@ -27,13 +27,17 @@ export const routes = createBrowserRouter([
         element: <PackagesDetails />,
 
         loader: async ({ params }) => {
-          const result = await fetch("tourPackages.json");
+          const result = await fetch("/tourPackages.json");
           const packageData = await result.json();
           return packageData.find((data) => data.id == params.id);
         },
       },
       {
         path: "booking",
+        element: <Booking />,
+      },
+      {
+        path: "booking/:id",
         element: <Booking />,
       },
       {

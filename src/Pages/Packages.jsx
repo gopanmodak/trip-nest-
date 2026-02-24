@@ -4,12 +4,16 @@ import Package from "../Components/Package/Package";
 
 const Packages = () => {
   const tourPackages = useLoaderData();
-  console.log("tourPackages (production):", tourPackages, Array.isArray(tourPackages));
+  console.log(
+    "tourPackages (production):",
+    tourPackages,
+    Array.isArray(tourPackages),
+  );
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-6">
       <h1 className="text-center text-4xl font-bold mb-6">
-        <span className="text-4xl font-bold bg-gradient-to-r from-orange-700 via-blue-500 to-green-400 text-transparent bg-clip-text animate-gradient">
+        <span className="text-4xl font-bold bg-linear-to-r from-orange-700 via-blue-500 to-green-400 text-transparent bg-clip-text animate-gradient">
           Our Most Popular Packages
         </span>
       </h1>
