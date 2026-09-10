@@ -6,6 +6,9 @@ import Booking from "../Pages/Booking";
 import Contact from "../Pages/Contact";
 import Blog from "../Pages/Blog";
 import PackagesDetails from "../Pages/PackagesDetails";
+import Login from "../Pages/Login";
+import Signin from "../Pages/Signin";
+import PrivateRoutes from "../PrivateRoutes/PrivateRoutes";
 
 export const routes = createBrowserRouter([
   {
@@ -19,18 +22,18 @@ export const routes = createBrowserRouter([
       {
         path: "packages",
         element: <Packages />,
-        loader: async () => await fetch("/tourPackages.json"),
+       
       },
 
       {
-        path: "packages/:id",
-        element: <PackagesDetails />,
+        path: "packages/:_id",
+        element:<PrivateRoutes>
 
-        loader: async ({ params }) => {
-          const result = await fetch("/tourPackages.json");
-          const packageData = await result.json();
-          return packageData.find((data) => data.id == params.id);
-        },
+          <PackagesDetails />
+        </PrivateRoutes> ,
+
+      
+        
       },
       {
         path: "booking",
@@ -48,6 +51,15 @@ export const routes = createBrowserRouter([
         path: "blog",
         element: <Blog />,
       },
+      {
+        path: "login",
+        element: <Login />,
+      },
+      {
+        path: "signup",
+        element: <Signin />,
+      },
+    
     ],
   },
 ]);

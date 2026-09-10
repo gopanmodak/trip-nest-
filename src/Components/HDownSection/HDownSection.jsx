@@ -5,7 +5,7 @@ import sampleVideo from "../../assets/newBd.mp4";
 
 const HDownSection = () => {
   return (
-    <div className="my-40">
+    <div className="my-20">
       <div>
         <div className="flex flex-col justify-center items-center text-center gap-5">
           <h1 className="font-extrabold text-3xl lg:text-5xl text-[#131318]">
@@ -55,7 +55,7 @@ const HDownSection = () => {
           </div>
         </div>
 
-        <div className="flex flex-col justify-center items-center gap-30 mt-40 max-w-7xl mx-auto px-4">
+        <div className="flex flex-col justify-center items-center gap-30 mt-15 max-w-7xl mx-auto px-4">
           <div className="flex flex-col gap-5 bg-[#dff7a7] p-10 rounded-xl max-w-140 shadow-2xl">
             <img
               src="https://cdn-icons-png.flaticon.com/128/3462/3462067.png"
